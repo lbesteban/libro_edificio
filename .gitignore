@@ -6,6 +6,9 @@
 docs/
 md_consolidado/
 processed_files.json
+contenido.txt
+*.csv
+*.json
 
 # Entorno virtual de Python
 venv/
